@@ -1,0 +1,10 @@
+__pycache__/
+*.dll
+config*.json
+mqtt_config.py
+*.tmp
+remote_config.json
+remote_key.pem
+remote_cert.pem
+remote_cert.cer
+gateway_boot.log*

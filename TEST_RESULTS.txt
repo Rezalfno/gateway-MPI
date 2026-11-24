@@ -1,0 +1,27 @@
+test_active_controller_edit_rejected (test_gateway.GatewayTests.test_active_controller_edit_rejected) ... ok
+test_disable_live (test_gateway.GatewayTests.test_disable_live) ... ok
+test_hot_edit (test_gateway.GatewayTests.test_hot_edit) ... ok
+test_invalid_modbus_mapping (test_gateway.GatewayTests.test_invalid_modbus_mapping) ... ok
+test_mqtt_mode (test_gateway.GatewayTests.test_mqtt_mode) ... ok
+test_multiple_controllers_and_move (test_gateway.GatewayTests.test_multiple_controllers_and_move) ... ok
+test_persistence (test_gateway.GatewayTests.test_persistence) ... ok
+test_read_while_slow (test_gateway.GatewayTests.test_read_while_slow) ... ok
+test_real_write_disabled (test_gateway.GatewayTests.test_real_write_disabled) ... ok
+test_s7_conflict (test_gateway.GatewayTests.test_s7_conflict) ... ok
+test_sim_write (test_gateway.GatewayTests.test_sim_write) ... ok
+test_orders (test_gateway.ModbusTests.test_orders) ... ok
+test_shared_bus_and_fc (test_gateway.ModbusTests.test_shared_bus_and_fc) ... ok
+test_auth_host_origin (test_remote.RemoteTests.test_auth_host_origin) ... ok
+test_insecure_opt_in (test_remote.RemoteTests.test_insecure_opt_in) ... ok
+test_real_write_denied (test_remote.RemoteTests.test_real_write_denied) ... ok
+test_remote_hot_edit_and_demo_write (test_remote.RemoteTests.test_remote_hot_edit_and_demo_write) ... ok
+test_resume_disconnect (test_remote.RemoteTests.test_resume_disconnect) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 3.683s
+
+OK
+HTTPS smoke test with verified certificate: PASS
+
+Python compileall and Node.js syntax check: PASS
+Windows startup/firewall, physical PLC/VFD, real MQTT and browser UI: NOT tested.
